@@ -78,7 +78,7 @@ Only binary releases are provided in this repository.
 This project uses third-party open-source components.  
 The full list of licenses is available in:
 
-[THIRD_PARTY_LICENSES](https://github.com/666OS/YYDS/blob/main/THIRD_PARTY_LICENSES.txt) 
+[THIRD_PARTY_LICENSES](https://github.com/666OS/ClashMac/blob/main/THIRD_PARTY_LICENSES.txt) 
 
 ## 致谢
 
