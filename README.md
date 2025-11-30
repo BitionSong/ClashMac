@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/screenshot.jpg" alt="ClashMac Screenshot" width="400">
+  <img src="assets/screenshot.png" alt="ClashMac Screenshot" width="400">
 </p>
 
 ## 特性
