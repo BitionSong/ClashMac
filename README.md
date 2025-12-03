@@ -4,7 +4,7 @@
 应用使用的第三方开源组件我们均已按要求公开 License。
 
 未来会根据项目进展评估是否开放更多内容。  
-感谢理解与支持！
+感谢理解与支持！ 详细请参阅  [置顶说明](https://github.com/666OS/ClashMac/issues/15 )
 
 <br>
 <p align="center">
