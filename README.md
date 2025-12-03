@@ -1,3 +1,11 @@
+## ⚠️ 重要说明
+
+本项目本体暂不开源，当前仓库主要用于发布版本和接受反馈。  
+应用使用的第三方开源组件我们均已按要求公开 License。
+
+未来会根据项目进展评估是否开放更多内容。  
+感谢理解与支持！
+
 <br>
 <p align="center">
   <img src="assets/clashmac-logo.png" alt="ClashMac Screenshot" width="300" style="filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.15));">
