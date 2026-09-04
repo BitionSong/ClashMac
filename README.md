@@ -56,6 +56,14 @@
 - **Leaderboards**: Automatically lists your most active target domains, matched rules, and destinations.
 - **Resource Monitoring**: Track system memory footprint of both the UI and the underlying network engine.
 
+### 🌐 Anti-Detect Fingerprint Browser
+- **GeoIP Alignment**: Automatically aligns browser timezone, language, locale, and User-Agent with the active proxy node to prevent tracking and cross-region leaks.
+- **Multi-Profile Isolation**: Configure independent browser profiles with isolated cookies, cache, and dedicated proxy endpoints.
+- **Menu Bar Quick Access**: Launch or terminate target browser environments instantly from the macOS menu bar without opening the dashboard.
+- **Shared Extension Center**: Install Chrome extensions once via Web Store URL or ID—globally available across all fingerprint profiles.
+- **Built-in Status Page**: Start page displays real-time network connectivity, proxy exit IP geolocation, and extension shortcuts on launch.
+- **CDP Automation & CLI**: Automate browser workflows, capture full-page screenshots, evaluate scripts, and extract cookies via the `cm fp` command-line tool.
+
 ---
 
 ## 🛠️ Built for macOS
