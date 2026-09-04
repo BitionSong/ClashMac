@@ -115,12 +115,6 @@ ClashMac is proprietary, closed-source software. Binary releases are provided in
 View third-party credits and licenses here:  
 👉 [THIRD_PARTY_LICENSES](https://github.com/666OS/ClashMac/blob/main/THIRD_PARTY_LICENSES.txt)
 
----
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=666OS/ClashMac&type=Date)](https://star-history.com/#666OS/ClashMac&Date)
-
 <p align="center">
   Crafted with ❤️ for macOS
 </p>
